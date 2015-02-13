@@ -15,9 +15,14 @@
     <string name="email_hint">Email</string>
     <string name="signup_error_message">Please enter correct username password and email</string>
     <string name="signup_error_title">Oops</string>
-	<string name="login_error_message">Please enter correct username password and email</string>
+    <string name="login_error_message">Please enter correct username password and email</string>
     <string name="login_error_title">Oops</string>
     <string name="menu_logout_label">Logout</string>
     <string name="empty_inbox">No messages to display</string>
     <string name="empty_friends">Start by adding friends</string>
+    <string name="edit_friends_text_label">Edit Friends</string>
+    <string name="title_activity_edit_friends">Edit Friends</string>
+    <string name="edit_friends_empty">No friends in the list</string>
+    <string name="error_title">We are sorry</string>
+
 </resources>
